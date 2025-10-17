@@ -1,6 +1,6 @@
 # Authix v3
 
-**Authix v3** by **Rubin B (pygod139)** is a **fast, async Discord bot** built with **FastAPI**, designed for **member backup and restoration using stored tokens (auths)**. This streamlined version focuses on speed and simplicity. Older versions (v1, v2) can be found in my [rubinexe](https://github.com/rubinexe) repository.
+**Authix v3** by **Rubin B (pygod7)** is a **fast, async Discord bot** built with **FastAPI**, designed for **member backup and restoration using stored tokens (auths)**. This streamlined version focuses on speed and simplicity. Older versions (v1, v2) can be found in my [rubinexe](https://github.com/rubinexe) repository.
 
 ---
 
