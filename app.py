@@ -451,5 +451,5 @@ if __name__ == "__main__":
 #$ credits
 #$ updated by rubin b (fixed all bugs, converted flask -> fastapi)
 #$ old version was also made by me (github: rubinexe)
-#$ new github: pygod139
+#$ new github: pygod7 
 #$ give credits if you re-distribute!
