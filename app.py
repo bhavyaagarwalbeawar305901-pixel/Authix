@@ -39,7 +39,7 @@ async def on_ready():
     print(f"connected as: {client.user}")
 
 def run_fastapi():
-    uvicorn.run("app:app", reload=True)
+    uvicorn.run("app:app",host='0.0.0.0', reload=True)
 
 def keep_alive():
     Process(target=run_fastapi).start()
